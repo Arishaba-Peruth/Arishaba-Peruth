@@ -1,21 +1,27 @@
-Hi there 👋
-I'm Peruth Arishaba, a Full-Stack Software Developer focusing on impact and scalability with a strong foundation in Python.
-I'm an apprentice under an intensive full-stack bootcamp, specializing in building robust and efficient applications using the Python/Django ecosystem and modern JavaScript and React frameworks. I thrive on translating real world problems into elegant, maintainable code.
+Hello Am Peruth Arishaba
 
-- 🔭 I’m currently working on ...
-  Developing the Farm Management mobile app System for Rugyeyo Farm, including a public-facing website and knowledge hub.
-  Refining core modules like Wages, Sales, and Inventory etc for operational efficiency.
-  Deepening my expertise in cloud deployment (AWS/Azure, digital Ocean) and system architecture.
-  
-- 👯 I’m looking to collaborate on ...
-  Open-source projects where I can apply the skills I have so far and learn new technologies.
-  Am open to any internship opportunity
-  Projects that require strong Python/Django REST API development, React Native frontend work, React and ready to learn more technologies.
-  
-- 📫 How to reach me: ...
-  Email: lorisperutha@gmail.com
-  LinkedIn: https://www.linkedin.com/in/peruth-arishaba-19a3082b3/
-  Github: https://github.com/Arishaba-Peruth/ 
+Junior Full-Stack Software Developer with hands-on experience building real-world web and mobile applications using Python, Django, React, and React Native.
 
-I organize my personal errands using Scrum sprints prioritizing tasks, setting daily stand-ups, and managing scopes.
+I recently completed a Software Engineering apprenticeship at Refactory Academy, where I worked on production-level projects, collaborated in Agile teams, and served as a Project Manager on a full-stack solution.
+
+Technical Skills
+- Backend: Python, Django, Django REST Framework
+- Frontend: React, React Native, JavaScript
+- Databases: PostgreSQL, SQLite
+- Tools: Git, GitHub, Trello
+- Methodologies: Agile, Scrum
+
+Current Focus
+- Building and refining full-stack applications
+- Writing clean, maintainable, and scalable code
+- Strengthening skills in APIs, databases, and system design
+
+Selected Projects
+- Farm Management System (Rugyeyo Farm): Mobile and web-based system for tracking farm operations, tasks, inventory, and reporting
+- Karibu Grocery Inventory System: Inventory and sales tracking system built with Django
+
+Get in Touch
+- Email: lorisperuth@gmail.com
+- +256 761 423 217
+- LinkedIn: https://www.linkedin.com/in/peruth-arishaba-19a3082b3/ 
 
